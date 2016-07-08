@@ -1,0 +1,17 @@
+{
+  "name": "omercadocoss/designpatterns",
+  "description": "An introduction to some design patterns",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Osvaldo Mercado Coss",
+      "email": "osvaldomercado@live.com"
+    }
+  ],
+  "require": [
+    {
+      "php": ">=5.6.0"
+    }
+  ]
+}
